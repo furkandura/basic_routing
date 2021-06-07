@@ -8,6 +8,7 @@ $route = new BasicRoute([
 ]);
 
 // Dosya yolu laraveldeki view gibi / yerine . ile verilir.
+// Htaccess dosyası olmadan istekleri yönetemez.
 
 // GET Kullanımı 
 $route->get("example-get", "testing.index_get");
