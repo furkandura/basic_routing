@@ -1,5 +1,5 @@
 # Php Basic Routing Sistemi
-Gelen istekleri(post, get) yönetmek için basit bir routing sınıfı
+Php dilinde gelen istekleri yönetmek için basit bir routing sınıfı. İstekleri methodlarına göre belirlenen dosyayı include etmeye yarar.
 
 ## Kullanım
 Detaylar example.php dosyasında anlatılmıştır.
